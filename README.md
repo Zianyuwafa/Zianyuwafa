@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zianyuwafa 
-- 👀 I’m interested in data scientist
+- 👀 I’m interested on daviz
 - 🌱 I’m currently learning phyton
 - 📫 How to reach me send email zianyuwafa@gmail.com
 
