@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zianyuwafa 
 - 👀 I’m interested on daviz
-- 🌱 I’m currently learning phyton
+- 🌱 I’m currently learning mthlb
 - 📫 How to reach me send email zianyuwafa@gmail.com
 
 <!---
